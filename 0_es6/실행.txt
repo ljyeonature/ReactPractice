@@ -1,0 +1,3 @@
+* es6 문법만 확인
+
+> node xxxx.js
